@@ -131,6 +131,18 @@
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\images\cta-illustration.svg" />
+    <Content Include="Content\images\feature-icon-01.svg" />
+    <Content Include="Content\images\feature-icon-02.svg" />
+    <Content Include="Content\images\feature-icon-03.svg" />
+    <Content Include="Content\images\feature-icon-04.svg" />
+    <Content Include="Content\images\feature-icon-05.svg" />
+    <Content Include="Content\images\feature-icon-06.svg" />
+    <Content Include="Content\images\hero-back-illustration.svg" />
+    <Content Include="Content\images\hero-top-illustration.svg" />
+    <Content Include="Content\images\logo.svg" />
+    <Content Include="Content\images\pricing-illustration.svg" />
+    <Content Include="Content\style.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -147,6 +159,7 @@
     <Content Include="Scripts\jquery.validate.min.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.js" />
     <Content Include="Scripts\jquery.validate.unobtrusive.min.js" />
+    <Content Include="Scripts\main.min.js" />
     <Content Include="Scripts\modernizr-2.8.3.js" />
     <Content Include="Web.config" />
     <Content Include="Web.Debug.config">
@@ -162,6 +175,7 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\Landing.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

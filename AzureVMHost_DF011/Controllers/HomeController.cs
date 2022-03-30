@@ -26,5 +26,10 @@ namespace AzureVMHost_DF011.Controllers
 
             return View();
         }
+
+        public ActionResult Landing()
+        {
+            return View();
+        }
     }
 }
